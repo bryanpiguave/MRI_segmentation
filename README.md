@@ -5,7 +5,7 @@ This project uses the LGG Segmentation Dataset for training and validation purpo
 
 
 #  Installation
-    To run this code, please install the requirements using the following command from conda
+To run this code, please install the requirements using the following command from conda
     ´´´
         conda env create -f tf.yml
         conda activate tf
@@ -13,14 +13,14 @@ This project uses the LGG Segmentation Dataset for training and validation purpo
     ´´´
 
 # Pipeline
-    The pipeline of this project is comprised by the following steps:
+The pipeline of this project is comprised by the following steps:
 
-    1. Data Collection
-    2. Data Processing 
-    3. Training 
-    4. Validation
+1. Data Collection
+2. Data Processing 
+3. Training 
+4. Validation
 
-    To obtain the model and validate its performance, execute the bash file 
+To obtain the model and validate its performance, execute the bash file 
     ´´´
         bash pipeline.sh
 
@@ -30,4 +30,4 @@ This project uses the LGG Segmentation Dataset for training and validation purpo
     
 
 # Author 
-    Bryan Piguave 
+Bryan Piguave 
